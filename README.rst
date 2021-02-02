@@ -13,13 +13,13 @@ Just run the following command (from the repo directory):
 
 .. code-block:: text
 
-    $ python mistery.py
+    $ python mystery.py
 
 Alternatively, please run the following command:
 
 .. code-block:: text
 
-    $ python3 mistery.py
+    $ python3 mystery.py
 
 If you work on Windows, change your OS ;)
 
